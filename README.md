@@ -1,3 +1,3 @@
 # hello-word
 Starting
-me llamo manuel y a ver como va esto....
+hello I am starting with java
